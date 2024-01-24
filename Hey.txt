@@ -1,0 +1,19 @@
+Hey
+Currently I'm working on KB KRI PD task, yesterday I was not able to import review on Dev environmet, Sofian helped me on that also he proveded some feedbcak on mmy other task of KRI namming convention so today I'll worj on that andn able to complete that tickets.
+aprt from that on my LGD KRI ticket, I was investigating
+on one code of KRI 4_6, today I'll connect with matheu for that. 
+
+validated,ctp_rwa,ctp_ead,ctp_rwa_end,ctp_ead_end
+
+
+calculated = calculated_lra
+ctp_country = ctp_country_lra
+ctp_domain = ctp_domain_lra
+ctp_ead = ctp_ead_lra
+ctp_ead_end = ctp_ead_lra_end
+ctp_id = ctp_id_lra
+ctp_naf = ctp_naf_lra
+ctp_rwa = ctp_rwa_lra
+ctp_rwa_end = ctp_rwa_lra_end
+def = def_lra
+validated = validated_lra
